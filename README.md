@@ -1,2 +1,2 @@
 # pipelines-tricks
-Pipelines | bugbounty | hacking | redteaming | blueteaming | soc | noc | tricks
+Pipelines | Bug Bounty | Hacking | Red Teaming | Blue Teaming | SOC | NOC | Tricks
